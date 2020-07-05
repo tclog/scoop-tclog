@@ -1,0 +1,22 @@
+{
+    "version": "0.0.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/tclog/tclog/releases/download/v0.0.2/tclog_0.0.2_Windows_x86.zip",
+            "bin": [
+                "bin\\tclog.exe"
+            ],
+            "hash": "d832c419b4fd902159d790a7e2a0867d74c3d35348e8c8041f5d0f918fd3732b"
+        },
+        "64bit": {
+            "url": "https://github.com/tclog/tclog/releases/download/v0.0.2/tclog_0.0.2_Windows_x64.zip",
+            "bin": [
+                "bin\\tclog.exe"
+            ],
+            "hash": "66324c0804fb64e9e61ebf7f9f819970a816bf56c33e31565b8417f08ff2a47c"
+        }
+    },
+    "homepage": "https://github.com/tclog/tclog",
+    "license": "MIT",
+    "description": "Twitch Chat Logger"
+}
